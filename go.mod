@@ -1,6 +1,6 @@
 module github.com/yca-software/2chi-go-server
 
-go 1.26.4
+go 1.26.1
 
 require (
 	github.com/labstack/echo/v4 v4.15.4
